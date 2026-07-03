@@ -66,8 +66,8 @@ function App() {
 
       <div className="shell">
         <header className="header">
-          <span className="eyebrow">Personal / AI Toolkit</span>
-          <h1 className="wordmark">Transcriber</h1>
+          
+          <h1 className="wordmark">VoiceBrief AI</h1>
         </header>
 
         <main className="stage">
