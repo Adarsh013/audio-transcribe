@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://audio-transcribe-production-999e.up.railway.app";
+const BASE_URL = "https://audio-transcribe-148r.onrender.com";
 
 const TRANSCRIBE_URL = `${BASE_URL}/api/transcribe`;
 const SUMMARY_URL = `${BASE_URL}/api/summary`;
