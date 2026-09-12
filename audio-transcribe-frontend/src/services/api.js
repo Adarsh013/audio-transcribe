@@ -1,6 +1,7 @@
 import axios from "axios";
 
 const BASE_URL = "https://audio-transcribe-1.onrender.com";
+// const BASE_URL = "http://localhost:8080";
 
 const TRANSCRIBE_URL = `${BASE_URL}/api/transcribe`;
 const SUMMARY_URL = `${BASE_URL}/api/summary`;

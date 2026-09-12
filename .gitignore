@@ -43,3 +43,7 @@ audio-transcribe-frontend/dist/
 
 # Logs
 *.log
+
+# Compiled Java / build output
+bin/
+*.class
